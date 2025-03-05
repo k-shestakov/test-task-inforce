@@ -1,0 +1,53 @@
+.product {
+  width: 100%;
+  background-color: rgb(243, 243, 243);
+  padding: 15px;
+  border-radius: 4px;
+  color: rgb(60, 60, 60);
+  position: relative;
+
+  &__content {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    gap: 20px;
+
+    & img {
+      max-width: 100%;
+      object-fit: cover;
+    }
+  }
+
+  &__inner {
+    display: flex;
+    align-items: center;
+    gap: 20px;
+  }
+
+  &__image {
+    width: 80px;
+  }
+
+  &__count {
+  }
+
+  &__size {
+  }
+
+  &__width {
+  }
+
+  &__height {
+  }
+
+  &__weight {
+  }
+
+  &__delete {
+    background-color: rgb(247, 93, 93);
+    color: #fff;
+    border: none;
+    padding: 5px;
+    cursor: pointer;
+  }
+}

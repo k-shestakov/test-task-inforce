@@ -1,0 +1,26 @@
+{
+  "products": [
+    {
+      "id": "686b",
+      "name": "sdf",
+      "count": 0,
+      "imageURL": "",
+      "size": {
+        "width": 0,
+        "height": 0
+      },
+      "weight": "g"
+    },
+    {
+      "id": "402c",
+      "name": "sdfsdf",
+      "count": 0,
+      "imageURL": "",
+      "size": {
+        "width": 0,
+        "height": 0
+      },
+      "weight": "g"
+    }
+  ]
+}
