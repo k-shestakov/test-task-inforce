@@ -2,7 +2,7 @@
 
 ### 1. Clone the Repository
 ### 2. npm i
-### npm start
-### npx json-server --watch db.json --port 5000
+### 3. npm start
+### 4. npx json-server --watch db.json --port 5000
 
 use 20 node version
